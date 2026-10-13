@@ -1,0 +1,7 @@
+.gradle/
+build/
+images/
+.git/
+.github/
+*.md
+.DS_Store
